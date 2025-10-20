@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-10-20)
 
 <section class="features">
 
@@ -34,10 +34,14 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`5bbd209`](https://github.com/stdlib-js/stdlib/commit/5bbd209871c06aaf7d6347c6eb7696af6128ee1a) - **docs:** replace manual `for` loop in examples [(#8257)](https://github.com/stdlib-js/stdlib/pull/8257) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`40461dd`](https://github.com/stdlib-js/stdlib/commit/40461dd76cbee9a76b650f13c5c064be38b2096d) - **chore:** clean-up _(by Athan Reines)_
 -   [`0f61a64`](https://github.com/stdlib-js/stdlib/commit/0f61a6495d50e9e33e4783502a78f93e5bc4144e) - **chore:** clean-up _(by Athan Reines)_
 -   [`633dc6b`](https://github.com/stdlib-js/stdlib/commit/633dc6bf08f7c36104492d9d075d12d5ea2ec1af) - **feat:** add C implementation for `stats/base/dists/laplace/cdf` [(#4440)](https://github.com/stdlib-js/stdlib/pull/4440) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
--   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
+-   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by Gopi Kishan)_
 
 </details>
 
@@ -49,11 +53,12 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Dhruv Arvind Singh
--   GK Bishnoi
+-   Gopi Kishan
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
